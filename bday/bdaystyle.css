@@ -74,3 +74,8 @@ h1 {
     top: 0px;
     left:550px;
 }
+#author{
+  font-size: 30px;
+  text-align: center;
+  margin-top: 60px;
+}
