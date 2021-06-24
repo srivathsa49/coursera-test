@@ -1,0 +1,43 @@
+body{
+    background: url("images/main.jpg");
+    text-align: center;
+    font-size: 30px;
+}
+h1:hover{
+    background-color: black;
+    opacity: 0.4;
+    color: gold;
+
+}
+span:hover{
+    font-size: 2em;
+}
+.box{
+    background-color: aqua;
+    text-decoration: none;
+    color:red;
+    opacity: 0.2;
+    text-transform: capitalize;
+}
+ul{
+    list-style-type: none;
+}
+div ul:hover{
+    opacity: 0.2;
+}
+#col:hover{
+    background-color: aqua;
+    height: 60px;
+    opacity: 0.2;
+}
+a{
+    text-decoration: none;
+    opacity: 0.5;
+}
+a:hover{
+    color:blue;
+}
+#music{
+    position:absolute;
+    left:0px;
+}
