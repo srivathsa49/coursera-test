@@ -19,9 +19,7 @@ body{
     75%  {background-color:green; left:0px; top:200px;}
     100% {background-color:red; left:0px; top:0px;}
   }
-abbr{
-    text-decoration: none;
-}
+
 h1:hover{
     background-color: black;
     opacity: 0.4;
@@ -55,6 +53,9 @@ a{
 }
 a:hover{
     color:blue;
+}
+abbr{
+    text-decoration: none;
 }
 #music{
     position:absolute;
